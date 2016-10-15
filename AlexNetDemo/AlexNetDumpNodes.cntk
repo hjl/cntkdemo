@@ -1,0 +1,11 @@
+ModelDir = "C:\Users\hojohnl\Source\Repos\CNTK\Tests\EndToEndTests\Image\AlexNet\models"
+
+command=Dump
+
+traceLevel=1
+
+Dump=[
+    action="dumpnode"
+    modelPath="$ModelDir$/AlexNet"
+    outputFile="C:\users\hojohnl\source\repos\cntkdemo\AlexNetDemo\AlexNetDump.txt" 
+]
