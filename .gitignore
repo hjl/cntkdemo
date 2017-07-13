@@ -196,3 +196,4 @@ FakesAssemblies/
 *.opt
 /CNTKdemo/#foo.lisp#
 /AlexNetDemo/.ipynb_checkpoints
+/AlexNetDemo/AlexNetDump.txt
